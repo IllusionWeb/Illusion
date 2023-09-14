@@ -1,4 +1,4 @@
-# 🌑 Illuaion Proxy 🌑
+# 🌑 Illusion Proxy 🌑
 
 Welcome to Illusion Proxy - A tabbed proxy designed to make your internet experience enchanced to the next level with a sleek dark blue theme, and tons of more features!
 
