@@ -16,6 +16,6 @@ Welcome to Illusion Proxy - A tabbed proxy designed to make your internet experi
 ## Credits
 - Titanium Network's Ultraviolet Proxy Backend
 - @gavingogaming for helping to start it
-
+- Shadow-Tabbed for the basic layout
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the terms of the license.
