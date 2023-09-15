@@ -4,10 +4,10 @@ html, body {
   margin: 0;
   padding: 0;
   border-bottom-style: solid;
-  border-bottom-color: #232b39;
+  border-bottom-color: #5e242d;
   border-bottom-width: 1px;
   overflow:hidden;
-  background-color: #0a0d15;
+  background-color: #871c2c;
   color: #e5e5e5;
 }
 
@@ -19,14 +19,14 @@ html, body {
   height: 2.5%;
   margin-top: 2.5%;
   border-bottom-style: solid;
-  border-bottom-color: #232b39;
+  border-bottom-color: #871c2c;
   border-bottom-width: 2px;
   display: flex;
   padding: 7.5px;
   padding-right: 10px;
   padding-left: 10px;
   align-items: center;
-  background-color: #0a0d15;
+  background-color: #5e242d;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
