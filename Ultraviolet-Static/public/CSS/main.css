@@ -1,5 +1,5 @@
 .mainbody {
-  background-color: #1a1a32;
+  background-color: #542d2d;
   margin-top: -2%;
   overflow: auto;
   padding:0;
@@ -7,7 +7,7 @@
 }
 
 .mainheading {
-  background-color: #1a1a32;
+  background-color: #542d2d;
   padding: 10px;
   margin-top: 10.5%;
   z-index:-1000;
