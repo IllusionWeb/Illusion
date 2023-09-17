@@ -36,7 +36,7 @@ html, body {
   margin: 10px 10px;
   border: none;
   height: 20px;
-  background-color: #232b39;
+  background-color: #a13b3b;
   align-self: center;
   border-radius: 5px;
   width: 79.5vmax;
@@ -72,7 +72,7 @@ html, body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background-color: #232b39;
+  background-color: #a13b3b;
   padding: 5px;
   width: 22px;
   height: 15px;
@@ -124,7 +124,7 @@ i {
   padding-left: 15px;
   margin-top: 2px;
   margin-right: 5px;
-  background-color: #232b39;
+  background-color: #a13b3b;
   cursor: pointer;
   text-align: left;
   color: #e5e5e5;
@@ -141,7 +141,7 @@ i {
 }
 
 .tab:hover {
-  background-color: #12202b;
+  background-color: #a13b3b;
 }
 
 
@@ -158,14 +158,14 @@ i {
 }
 
 .open-btn:hover{
-  background-color: #232b39;
+  background-color: #a13b3b;
 }
 .close-btn {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: -2px;
-  background-color: #232b39;
+  background-color: #a13b3b;
   padding: 5px;
   width: 25px;
   border-radius: 5px;
@@ -192,7 +192,7 @@ i {
 }
 
 .close-btn-tab:hover{
-  background-color: #232b39;
+  background-color: #a13b3b;
 }
 
 .close-btn-tab i {
@@ -234,7 +234,7 @@ i {
   width: 80vmax;
   align-self: center;
   z-index: 9999;
-  background-color: #232b39;
+  background-color: #a13b3b;
   border-radius: 5px;
   padding: 0;
   list-style: none;
@@ -255,16 +255,16 @@ i {
 }
 
 .suggestion-item:hover {
-  background-color: #12202b;
+  background-color: #a13b3b;
 }
 
 .tab.active{
-  background-color: #12102b;
+  background-color: #a13b3b;
 }
 /* Main.css */
 
 .mainbody {
-  background-color: #1a1a32;
+  background-color: #a13b3b;
   margin-top: -2%;
   overflow: auto;
   height:100vmax;
@@ -273,7 +273,7 @@ i {
 }
 
 .mainheading {
-  background-color: #1a1a32;
+  background-color: #a13b3b;
   padding: 10px;
   margin-top: 10.5%;
   z-index:-1000;
@@ -300,14 +300,14 @@ i {
 }
 
 .mainurl {
-  border: 1px solid #383858;
+  border: 1px solid #a13b3b;
   border-radius: 24px;
   height: 36px;
   width: 500px;
   padding: 6px 12px;
   font-size: 16px;
   font-family: Arial, sans-serif;
-  background-color: #212139;
+  background-color: #a13b3b;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
   color: #ffffff;
 }
@@ -364,7 +364,7 @@ i {
   z-index: 9999;
   color:#333;
   border-radius: 5px;
-  background-color: #212139;
+  background-color: #a13b3b;
   align-items: center;
   width: 30%;
 }
@@ -380,7 +380,7 @@ i {
 }
 
 #suggestions-listmain .suggestion-item:hover {
-  background-color: #3a2967;
+  background-color: #a13b3b;
   text-transform: capitalize;
 }
 
@@ -460,14 +460,14 @@ i {
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
-  background-color: #1c5fa1;
+  background-color: #a13b3b;
   color: #ffffff;
   font-size: 16px;
   cursor: pointer;
 }
 
 .category button:hover {
-  background-color: #66ccff;
+  background-color: #ff6666;
 }
 
 .logo {
@@ -532,7 +532,7 @@ header {
 .button-container button {
   padding: 10px 10px;
   margin: 0 10px;
-  background-color: #1c5fa1;
+  background-color: #a13b3b;
   color: #ffffff;
   font-size: 18px;
   width: 210px;
@@ -543,7 +543,7 @@ header {
 }
 
 .button-container button:hover {
-  background-color: #66ccff;
+  background-color: #ff6666;
 }
 
 .category {
@@ -590,7 +590,7 @@ header {
 .button {
   padding: 10px 20px;
   margin: 0 10px;
-  background-color: #1c5fa1;
+  background-color: #a13b3b;
   color: #ffffff;
   font-size: 18px;
   border: none;
@@ -600,7 +600,7 @@ header {
 }
 
 .button:hover {
-  background-color: #66ccff;
+  background-color: #ff6666;
 }
 
 .section-content {
@@ -629,13 +629,13 @@ header {
   margin: 0;
   padding: 0;
   height:100%;
-  background-color: #1a1f2b;
+  background-color: #a13b3b;
   color: #e5e5e5;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .home-header {
-  background-color: #10151e;
+  background-color: #a13b3b;
   padding: 20px;
   text-align: center;
 }
@@ -679,7 +679,7 @@ header {
   padding: 20px;
   height:300px;
   margin: 10px;
-  background-color: #10151e;
+  background-color: #a13b3b;
   border-radius: 5px;
   text-align: center;
   transition: transform 0.3s ease;
@@ -697,7 +697,7 @@ header {
 }
 
 footer {
-  background-color: #10151e;
+  background-color: #a13b3b;
   padding: 20px;
   text-align: center;
   font-size: 14px;
@@ -714,7 +714,7 @@ footer {
 
 #custom-menu {
   position: absolute;
-  background-color: #1e6091;
+  background-color: #a13b3b;
   z-index:99999;
   color: #ffffff;
   padding: 5px;
@@ -748,7 +748,7 @@ footer {
 }
 
 #custom-menu ul li a:hover {
-  background-color: #265678;
+  background-color: #a13b3b;
   border-radius: 5px;
 }
 #custom-menu ul li a i {
