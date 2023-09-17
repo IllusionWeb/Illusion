@@ -8,7 +8,7 @@
     <link id="themeStylesheet" rel="stylesheet" type="text/css" href="" >
     <script src="settings/js/themes.js"> </script>
     <script src="uv/uv.config.js" defer></script>
-    <title>Shadow Browser</title>
+    <title>Illusion</title>
     <script src="register-sw.js" defer></script>
     <link rel="icon" type="image/png"  href="/favicon/favicon-32x32.png">
     <link href="https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap" rel="stylesheet">
@@ -454,7 +454,7 @@ function reloadIframe() {
 function openDiscord() {
   addTab('<i class="fa-brands fa-discord fa-lg"></i> Discord');
   const newTab = tabsContainer.querySelector('.tab[data-tab-id="' + (tabCounter - 1) + '"]');
-  changeTab(newTab, '/uv/service/hvtrs8%2F-dksaopd%2Ccmm-ilvktg%2Fr9j3fTJAOA');
+  changeTab(newTab, "/uv/service/"+xor.encode("https://discord.gg/gjEj24nB38");");
 }
 
 function openIframeInNewTab() {
@@ -534,7 +534,7 @@ function openNewTab() {
   discordBtn.addEventListener('click', function() {
     addTab('<i class="fa-brands fa-discord fa-lg"></i> Discord');
     const newTab = tabsContainer.querySelector('.tab[data-tab-id="' + (tabCounter - 1) + '"]');
-    changeTab(newTab, '/uv/service/hvtrs8%2F-dksaopd%2Ccmm-ilvktg%2Fr9j3fTJAOA');
+    changeTab(newTab, "/uv/service/"+xor.encode("https://discord.gg/gjEj24nB38");");
   });
 
   const openIframeBtn = document.getElementById('openiframe');
